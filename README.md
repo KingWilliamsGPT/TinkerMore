@@ -14,3 +14,5 @@ We hope to cover as much concepts as we can ranging from physics to biology, to 
 #### The future
 Tkinker more is a long way from completion, and it's still in it's infancy stage.
 So bear with us as we give you a world of infinite posibilities.
+
+We also what users to have a dashboard where they can store personlised experiments they made themselves, draft ideas, make hypothesis and so much more.
